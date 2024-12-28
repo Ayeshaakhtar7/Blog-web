@@ -58,7 +58,7 @@ export default function Navbar() {
               className="text-2xl sm:text-3xl font-bold font-serif hover:text-custom1"
               href={"/"}
             >
-              Veil.|<sub className="text-xs font-sans">a blog website</sub>
+              Mystic Web Co.|<sub className="text-xs font-sans">a blog website</sub>
             </Link>
             <Sheet>
               <div className="flex items-center">
